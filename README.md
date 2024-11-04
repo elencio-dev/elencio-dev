@@ -8,4 +8,5 @@ Desenvolvedor Full Stack
 
 Usa os conhecimentos tecnicos que você tem para resolver problemas sociais, tecnologias são ferramentas, o que realmente importa é resolver problemas com o que sabe.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized genius is practically a cliché. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+"If you don not fail you are not even trying" - Denzel Washington
+
