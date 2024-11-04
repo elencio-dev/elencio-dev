@@ -10,7 +10,7 @@ Usa os conhecimentos tecnicos que você tem para resolver problemas sociais, tec
 
 > "If you don not fail you are not even trying" - Denzel Washington
 
-## Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
