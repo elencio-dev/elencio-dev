@@ -8,7 +8,7 @@ Desenvolvedor Full Stack
 
 Usa os conhecimentos tecnicos que você tem para resolver problemas sociais, tecnologias são ferramentas, o que realmente importa é resolver problemas com o que sabe.
 
-> "If you don not fail you are not even trying" - Denzel Washington
+> "If you do not fail you are not even trying" - Denzel Washington
 
 ### Tecnologias
 
